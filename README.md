@@ -1,2 +1,2 @@
 # FizzBuzz
-A JS code to select elements in an array and change them
+A JS function to select elements in an array and change them
